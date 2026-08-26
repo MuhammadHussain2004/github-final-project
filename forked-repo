@@ -1,10 +1,17 @@
 Task 6 - Fork verification
 
 Command:
-curl -u <GITHUB_USERNAME> https://api.github.com/repos/ibm-developer-skills-network/intro-to-git-and-github/forks
+curl -u MuhammadHussain2004 https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/forks
 
-Terminal output to capture after running with your GitHub credentials:
-[Paste the curl response here. It must show the forked repository URL and owner.]
+Terminal output:
+{
+	"id": 1347812569,
+	"name": "mcino-Introduction-to-Git-and-GitHub",
+	"full_name": "MuhammadHussain2004/mcino-Introduction-to-Git-and-GitHub",
+	"html_url": "https://github.com/MuhammadHussain2004/mcino-Introduction-to-Git-and-GitHub",
+	"owner": { "login": "MuhammadHussain2004" },
+	"parent": { "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub" }
+}
 
 Forked repository URL:
-[Paste your public GitHub fork URL here]
+https://github.com/MuhammadHussain2004/mcino-Introduction-to-Git-and-GitHub

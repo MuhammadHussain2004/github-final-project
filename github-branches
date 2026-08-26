@@ -6,6 +6,7 @@ git branch -avv
 git status --short --branch
 
 Actual terminal output:
-	bug-fix-typo c553daa Fix README wording
-* main         c553daa Fix README wording
-## main
+	bug-fix-revert ad95b0a Create close_pr.yml
+	bug-fix-typo   e44a97e Fix typo in simple interest script
+* main           ad95b0a Create close_pr.yml
+## main...origin/main

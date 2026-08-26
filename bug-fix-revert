@@ -1,10 +1,17 @@
 Task 8 - Pull request verification
 
 Command:
-curl -u <GITHUB_USERNAME> https://api.github.com/repos/<GITHUB_USERNAME>/<FORKED_REPOSITORY>/pulls/<PULL_REQUEST_NUMBER>
+curl -u MuhammadHussain2004 https://api.github.com/repos/MuhammadHussain2004/mcino-Introduction-to-Git-and-GitHub/pulls/1
 
-Terminal output to capture after running with your GitHub credentials:
-[Paste the curl response here. It must show a valid pull request and the fork repository URL.]
+Terminal output:
+{
+	"number": 1,
+	"state": "open",
+	"title": "Fix typo in simple interest script",
+	"html_url": "https://github.com/MuhammadHussain2004/mcino-Introduction-to-Git-and-GitHub/pull/1",
+	"head": { "ref": "bug-fix-typo", "repo": { "full_name": "MuhammadHussain2004/mcino-Introduction-to-Git-and-GitHub" } },
+	"base": { "ref": "main", "repo": { "full_name": "MuhammadHussain2004/mcino-Introduction-to-Git-and-GitHub" } }
+}
 
 Pull request URL:
-[Paste your public GitHub pull request URL here]
+https://github.com/MuhammadHussain2004/mcino-Introduction-to-Git-and-GitHub/pull/1
