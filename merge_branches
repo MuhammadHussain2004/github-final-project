@@ -4,10 +4,10 @@ Commands:
 git checkout main
 git merge bug-fix-typo
 
-Expected terminal output format:
-Updating <old-commit>..<new-commit>
+Actual terminal output:
+Updating c2c457a..c553daa
 Fast-forward
- <file> | 1 +-
+ README.md | 2 +-
  1 file changed, 1 insertion(+), 1 deletion(-)
 
-The output must clearly show that 1 file was changed during the merge.
+This output clearly shows that 1 file was changed during the merge.
