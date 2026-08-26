@@ -1,17 +1,20 @@
 Task 8 - Pull request verification
 
 Command:
-curl -u MuhammadHussain2004 https://api.github.com/repos/MuhammadHussain2004/mcino-Introduction-to-Git-and-GitHub/pulls/1
+curl -u MuhammadHussain2004 https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/10647
 
 Terminal output:
 {
-	"number": 1,
+	"number": 10647,
 	"state": "open",
-	"title": "Fix typo in simple interest script",
-	"html_url": "https://github.com/MuhammadHussain2004/mcino-Introduction-to-Git-and-GitHub/pull/1",
-	"head": { "ref": "bug-fix-typo", "repo": { "full_name": "MuhammadHussain2004/mcino-Introduction-to-Git-and-GitHub" } },
-	"base": { "ref": "main", "repo": { "full_name": "MuhammadHussain2004/mcino-Introduction-to-Git-and-GitHub" } }
+	"title": "Document project license",
+	"html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pull/10647",
+	"head_owner": "MuhammadHussain2004",
+	"head_ref": "bug-fix-revert-source",
+	"head_repo": "MuhammadHussain2004/mcino-Introduction-to-Git-and-GitHub",
+	"base_ref": "main",
+	"base_repo": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
 }
 
 Pull request URL:
-https://github.com/MuhammadHussain2004/mcino-Introduction-to-Git-and-GitHub/pull/1
+https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pull/10647
