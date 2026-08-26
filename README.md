@@ -13,7 +13,7 @@ chmod +x simple-interest.sh
 ./simple-interest.sh
 ```
 
-The script asks for:
+The script prompts for:
 
 - Principal amount
 - Annual rate of interest (percent)
