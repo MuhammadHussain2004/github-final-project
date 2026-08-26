@@ -9,11 +9,20 @@ Terminal output:
 	"state": "open",
 	"title": "Document project license",
 	"html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pull/10647",
-	"head_owner": "MuhammadHussain2004",
-	"head_ref": "bug-fix-revert-source",
-	"head_repo": "MuhammadHussain2004/mcino-Introduction-to-Git-and-GitHub",
-	"base_ref": "main",
-	"base_repo": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+	"head": {
+		"ref": "bug-fix-revert-source",
+		"repo": {
+			"full_name": "MuhammadHussain2004/mcino-Introduction-to-Git-and-GitHub",
+			"fork": true
+		}
+	},
+	"base": {
+		"ref": "main",
+		"repo": {
+			"full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+			"fork": false
+		}
+	}
 }
 
 Pull request URL:
