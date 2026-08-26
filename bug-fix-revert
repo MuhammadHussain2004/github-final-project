@@ -12,15 +12,13 @@ Terminal output:
 	"head": {
 				"ref": "task8-verification-2",
 		"repo": {
-			"full_name": "MuhammadHussain2004/mcino-Introduction-to-Git-and-GitHub",
-			"fork": true
+			"full_name": "MuhammadHussain2004/mcino-Introduction-to-Git-and-GitHub"
 		}
 	},
 	"base": {
 		"ref": "main",
 		"repo": {
-			"full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
-			"fork": false
+			"full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
 		}
 	}
 }
