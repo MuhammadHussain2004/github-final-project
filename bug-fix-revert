@@ -1,0 +1,10 @@
+Task 8 - Pull request verification
+
+Command:
+curl -u <GITHUB_USERNAME> https://api.github.com/repos/<GITHUB_USERNAME>/<FORKED_REPOSITORY>/pulls/<PULL_REQUEST_NUMBER>
+
+Terminal output to capture after running with your GitHub credentials:
+[Paste the curl response here. It must show a valid pull request and the fork repository URL.]
+
+Pull request URL:
+[Paste your public GitHub pull request URL here]

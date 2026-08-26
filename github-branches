@@ -1,0 +1,9 @@
+Task 9 - Branch names and status
+
+Command:
+git branch -avv
+
+git status --short --branch
+
+Terminal output to capture from the repository:
+[Paste the command output here. It must display branch names and their status.]

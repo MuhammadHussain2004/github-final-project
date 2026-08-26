@@ -1,0 +1,10 @@
+Task 6 - Fork verification
+
+Command:
+curl -u <GITHUB_USERNAME> https://api.github.com/repos/ibm-developer-skills-network/intro-to-git-and-github/forks
+
+Terminal output to capture after running with your GitHub credentials:
+[Paste the curl response here. It must show the forked repository URL and owner.]
+
+Forked repository URL:
+[Paste your public GitHub fork URL here]

@@ -1,0 +1,13 @@
+Task 7 - Merge branches
+
+Commands:
+git checkout main
+git merge bug-fix-typo
+
+Expected terminal output format:
+Updating <old-commit>..<new-commit>
+Fast-forward
+ <file> | 1 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+The output must clearly show that 1 file was changed during the merge.
