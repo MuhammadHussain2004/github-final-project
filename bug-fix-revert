@@ -1,16 +1,16 @@
 Task 8 - Pull request verification
 
 Command:
-curl -u MuhammadHussain2004 https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/10647
+curl -u MuhammadHussain2004 https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/10649
 
 Terminal output:
 {
-	"number": 10647,
+	"number": 10649,
 	"state": "open",
-	"title": "Document project license",
-	"html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pull/10647",
+	"title": "Document GitHub workflow",
+	"html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pull/10649",
 	"head": {
-		"ref": "bug-fix-revert-source",
+				"ref": "task8-verification-2",
 		"repo": {
 			"full_name": "MuhammadHussain2004/mcino-Introduction-to-Git-and-GitHub",
 			"fork": true
@@ -26,4 +26,4 @@ Terminal output:
 }
 
 Pull request URL:
-https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pull/10647
+https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pull/10649
