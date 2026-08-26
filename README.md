@@ -1,4 +1,6 @@
-# Simple Interest Calculator
+# github-final-project
+
+## Simple Interest Calculator
 
 A Bash command-line calculator for computing simple interest from principal, annual rate, and time period.
 
@@ -23,7 +25,7 @@ It prints the calculated simple interest and total amount.
 
 ## Project Details
 
-- Project name: Simple Interest Calculator
+- Project name: github-final-project
 - Language: Bash
 - License: Apache License 2.0
 - Contribution guide: [CONTRIBUTING.md](CONTRIBUTING.md)
